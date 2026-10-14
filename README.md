@@ -1,4 +1,4 @@
-# 🤖 Otto Obstacle Avoiding Robot
+# 🤖 DIY Otto Obstacle Avoiding Robot
 
 ## 📌 Project Overview
 The Otto Obstacle Avoiding Robot is a small, interactive walking robot that uses an ultrasonic sensor to detect obstacles and avoid collisions automatically. It uses the Otto DIY library to control its servo motors, movements, gestures, and buzzer sounds.
